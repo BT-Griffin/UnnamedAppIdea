@@ -1,0 +1,12 @@
+$colorbg : black;
+$colortx : white;
+
+
+body {
+    background-color: $colorbg;
+    color: $colortx;
+}
+
+.card-body:hover {
+    opacity: 0.2;
+}

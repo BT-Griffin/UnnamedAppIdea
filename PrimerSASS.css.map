@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAIA,AAAA,IAAI,CAAC;EACD,gBAAgB,EALT,KAAK;EAMZ,KAAK,EALE,KAAK;CAMf;;AAED,AAAA,UAAU,AAAA,MAAM,CAAC;EACb,OAAO,EAAE,GAAG;CACf",
+    "sources": [
+        "PrimerSASS.scss"
+    ],
+    "names": [],
+    "file": "PrimerSASS.css"
+}
