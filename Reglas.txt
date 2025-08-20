@@ -1,3 +1,10 @@
 ! Proyecto conjunto de App !
 
+1 - Se añade colaborador, se crea rama nueva y se hace primera pull
 branch test pull R.
+
+2 - Se añade elementos basicos de HTML con Bootstrap;
+
+3 - Se inicia Typescript y se añade elementos basicos; 
+
+4 - Se inicia SASS y se añade elementos basicos; 
